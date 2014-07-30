@@ -1,7 +1,7 @@
 #!/bin/bash
 # function:monitor lvs connect status from zabbix
 # License: GPL
-# mail:itnihao@163.com
+# mail:itnihao@qq.com
 # version:1.0 date:2013-01-22
 
 ActiveConn () {
